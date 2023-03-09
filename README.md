@@ -1,6 +1,6 @@
 # Hhola,  soy AndrésChaverra
 
-### estoy haciendo un bootcamp se Guillermo Rodas
+### estoy haciendo un bootcamp de Guillermo Rodas
 soy de **Medellin, Colombia** vivo en San Jóse del Nus, tengo 16 años curso el grado 11 y me encanta el **mundo de la programacóon**
 
 
